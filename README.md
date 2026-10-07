@@ -106,22 +106,32 @@
 
 <div align="center">
 
-<!-- 代码全家桶 -->
+<!-- Agent Harness -->
 <table>
-<tr><td colspan="7" align="left" padding="0"><b>代码全家桶</b></td></tr>
+<tr><td colspan="5" align="left" padding="0"><b>Agent Harness</b></td></tr>
 <tr>
+  <td align="center" width="100">
+    <a href="https://zcode.z.ai/cn"><img src="public/icon/zcode.svg" width="32" height="32" alt="ZCode" /><br><sub><b>ZCode</b></sub></a><br><sub>偷数据的黑白狐娘</sub>
+  </td>
+  <td align="center" width="100">
+    <a href="https://hermes-agent.nousresearch.com/"><img src="public/icon/hermes.svg" width="32" height="32" alt="Hermes" /><br><sub><b>Hermes</b></sub></a><br><sub>偷偷进化的黑白少女</sub>
+  </td>
   <td align="center" width="100">
     <a href="https://www.deepseek.com/harness/"><img src="public/icon/deepseek.svg" width="32" height="32" alt="DSH" /><br><sub><b>DSH</b></sub></a><br><sub>吃白饭的蓝色大肥鱼</sub>
   </td>
   <td align="center" width="100">
+    <a href="https://openai.com/codex"><img src="public/icon/codex.svg" width="32" height="32" alt="Codex" /><br><sub><b>Codex</b></sub></a><br><sub>脑子里全是龙娘</sub>
+  </td>
+  <td align="center" width="100">
     <a href="https://opencode.ai/zh"><img src="public/icon/opencode.svg" width="32" height="32" alt="OpenCode" /><br><sub><b>OpenCode</b></sub></a><br><sub>开源编码智能体</sub>
   </td>
-  <td align="center" width="100">
-    <a href="https://openai.com/codex"><img src="public/icon/codex.svg" width="32" height="32" alt="Codex" /><br><sub><b>Codex</b></sub></a><br><sub>脑子里全是哥布林</sub>
-  </td>
-  <td align="center" width="100">
-    <a href="https://zcode.z.ai/cn"><img src="public/icon/zcode.svg" width="32" height="32" alt="ZCode" /><br><sub><b>ZCode</b></sub></a><br><sub>简单迅捷氛围十足</sub>
-  </td>
+</tr>
+</table>
+
+<!-- 代码全家桶 -->
+<table>
+<tr><td colspan="3" align="left" padding="0"><b>代码全家桶</b></td></tr>
+<tr>
   <td align="center" width="100">
     <a href="https://code.visualstudio.com/"><img src="public/icon/vscode.svg" width="32" height="32" alt="VS Code" /><br><sub><b>VS Code</b></sub></a><br><sub>装完插件重如泰山</sub>
   </td>
@@ -136,7 +146,7 @@
 
 <!-- 环境搬家队 -->
 <table>
-<tr><td colspan="6" align="left" padding="0"><b>环境搬家队</b></td></tr>
+<tr><td colspan="5" align="left" padding="0"><b>环境搬家队</b></td></tr>
 <tr>
   <td align="center" width="100">
     <a href="https://www.docker.com/"><img src="public/icon/docker.svg" width="32" height="32" alt="Docker" /><br><sub><b>Docker</b></sub></a><br><sub>打包一时爽排错火葬场</sub>

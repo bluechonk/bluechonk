@@ -17,10 +17,10 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-      - name: Push to output branch
+      - name: Push to github-snake branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-          publish_branch: output
+          publish_branch: github-snake
           force_orphan: true

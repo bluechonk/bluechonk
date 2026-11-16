@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=bluechonk&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true" alt="GitHub 统计数据" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=bluechonk&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;icon_color=4c7fc9" alt="GitHub 统计数据" />
 <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bluechonk&amp;layout=compact&amp;langs_count=8&amp;theme=dark&amp;hide_border=true" alt="常用语言占比" />
 
 </div>

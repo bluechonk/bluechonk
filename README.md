@@ -1,28 +1,35 @@
-## 关于我
+<div align="center">
 
-你好，我是 **bluechonk**，一个热爱二次元与技术的全栈开发者。平时喜欢折腾前端工程化、捣鼓各种开发工具。
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=4f6ef7&amp;height=110&amp;section=header&amp;text=Hi%20there%2C%20I%27m%20bluechonk&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn" alt="Hi there, I'm bluechonk" />
+
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bluechonk&amp;color=4f6ef7&amp;style=flat-square&amp;label=Profile+Views" alt="主页访问数" />
+  <img src="https://img.shields.io/github/followers/bluechonk?label=Followers&amp;style=flat-square&amp;color=4f6ef7" alt="关注者数" />
+  <img src="https://img.shields.io/github/stars/bluechonk?label=Profile+Stars&amp;style=flat-square&amp;color=4f6ef7" alt="获得星标数" />
+</p>
+
+<p align="center">你好，我是 <b>bluechonk</b>，一个热爱二次元与技术的全栈开发者。</p>
 
 - 目前正在折腾 **AI Agent** 和 **桌面应用开发**
 - 持续学习 **Vue 生态**、**Python AI**、**Rust**
 - 日常：写代码 / 打游戏 / 看番
 
----
-
-## GitHub 统计
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=bluechonk&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;icon_color=4c7fc9" />
+    <img src="https://github-stats-extended.vercel.app/api?username=bluechonk&amp;show_icons=true&amp;theme=default&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;icon_color=1f3f73" width="467" height="195" alt="GitHub 统计数据" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=bluechonk&amp;layout=compact&amp;langs_count=8&amp;theme=dark&amp;hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bluechonk&amp;layout=compact&amp;langs_count=8&amp;theme=default&amp;hide_border=true" width="300" height="190" alt="常用语言占比" />
+  </picture>
+</p>
 
 <div align="center">
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=bluechonk&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;icon_color=4c7fc9" alt="GitHub 统计数据" />
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bluechonk&amp;layout=compact&amp;langs_count=8&amp;theme=dark&amp;hide_border=true" alt="常用语言占比" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bluechonk&amp;theme=github_dark&amp;utcOffset=8" width="46%" alt="账号统计" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bluechonk&amp;theme=github_dark&amp;utcOffset=8" width="46%" alt="按仓库的语言分布" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bluechonk&amp;theme=github_dark&amp;utcOffset=8" width="46%" alt="按提交的语言分布" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bluechonk&amp;theme=github_dark&amp;utcOffset=8" width="46%" alt="提交时间分布" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=4f6ef7&amp;height=90&amp;section=footer" alt="" />
 
 </div>
 
@@ -160,10 +167,6 @@
 <br>
 
 </div>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=bluechonk&color=4f6ef7&style=flat-square&label=Profile+Views" alt="主页访问数" />
-</div>
-
 ---
 
 <div align="center">

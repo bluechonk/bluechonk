@@ -1,4 +1,4 @@
-## About Me
+## 关于我
 
 你好，我是 **bluechonk**，一个热爱二次元与技术的全栈开发者。平时喜欢折腾前端工程化、捣鼓各种开发工具。
 
@@ -8,7 +8,7 @@
 
 ---
 
-## Tech Stack
+## 技术栈
 
 <!-- Web 前端 -->
 <table>
@@ -70,7 +70,7 @@
 ---
 
 
-## TOOLS
+## 工具
 
 <div align="center">
 
@@ -140,7 +140,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bluechonk&amp;theme=dark&amp;hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bluechonk&amp;theme=light&amp;hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bluechonk&amp;theme=light&amp;hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bluechonk&amp;theme=light&amp;hide_border=true" alt="GitHub 连续贡献" />
 </picture>
 
 </div>
@@ -151,14 +151,14 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/bluechonk/bluechonk@github-snake/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/bluechonk/bluechonk@github-snake/github-snake.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/bluechonk/bluechonk@github-snake/github-snake.svg" alt="Contribution Snake" />
+  <img src="https://cdn.jsdelivr.net/gh/bluechonk/bluechonk@github-snake/github-snake.svg" alt="贡献之蛇" />
 </picture>
 
 <br>
 
 </div>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=bluechonk&color=4f6ef7&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=bluechonk&color=4f6ef7&style=flat-square&label=Profile+Views" alt="主页访问数" />
 </div>
 
 ---

@@ -135,6 +135,26 @@
 
 ---
 
+## GitHub 统计
+
+<div align="center">
+
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=bluechonk&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true" alt="GitHub 统计数据" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bluechonk&amp;layout=compact&amp;langs_count=8&amp;theme=dark&amp;hide_border=true" alt="常用语言占比" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bluechonk&amp;theme=github_dark&amp;utcOffset=8" width="46%" alt="账号统计" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bluechonk&amp;theme=github_dark&amp;utcOffset=8" width="46%" alt="按仓库的语言分布" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bluechonk&amp;theme=github_dark&amp;utcOffset=8" width="46%" alt="按提交的语言分布" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bluechonk&amp;theme=github_dark&amp;utcOffset=8" width="46%" alt="提交时间分布" />
+
+</div>
+
+---
+
 <div align="center">
 
 <picture>

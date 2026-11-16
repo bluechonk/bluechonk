@@ -118,7 +118,7 @@
     <a href="https://www.electronjs.org/"><img src="public/icon/electron.svg" width="32" height="32" alt="Electron" /><br><sub><b>Electron</b></sub></a>
   </td>
   <td align="center" width="140">
-    <a href="https://www.riverbankcomputing.com/software/pyqt/"><img src="public/icon/qt.svg" width="32" height="32" alt="PyQt6" /><br><sub><b>PyQt6</b></sub></a>
+    <a href="https://doc.qt.io/qtforpython-6/"><img src="public/icon/qt.svg" width="32" height="32" alt="PyQt6" /><br><sub><b>PyQt6</b></sub></a>
   </td>
   <td align="center" width="140">
     <a href="https://tauri.app/"><img src="public/icon/tauri.svg" width="32" height="32" alt="Tauri" /><br><sub><b>Tauri</b></sub></a>

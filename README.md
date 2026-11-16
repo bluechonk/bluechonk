@@ -5,7 +5,6 @@
 - 目前正在折腾 **AI Agent** 和 **桌面应用开发**
 - 持续学习 **Vue 生态**、**Python AI**、**Rust**
 - 日常：写代码 / 打游戏 / 看番
-- 欢迎交流技术问题或一起搞事情
 
 ---
 
@@ -13,7 +12,7 @@
 
 <!-- Web 前端 -->
 <table>
-<tr><td colspan="5" align="left"><b>Web Frontend</b></td></tr>
+<tr><td colspan="5" align="left"><b>Web 前端</b></td></tr>
 <tr>
   <td align="center" width="100">
     <a href="https://vuejs.org/"><img src="public/icon/vue.svg" width="32" height="32" alt="Vue.js" /><br><sub><b>Vue.js</b></sub></a>
@@ -33,9 +32,9 @@
 </tr>
 </table>
 
-<!-- Backend & AI -->
+<!-- 后端与 AI -->
 <table>
-<tr><td colspan="3" align="left"><b>Backend & AI</b></td></tr>
+<tr><td colspan="3" align="left"><b>后端与 AI</b></td></tr>
 <tr>
   <td align="center" width="100">
     <a href="https://www.python.org/"><img src="public/icon/python.svg" width="32" height="32" alt="Python" /><br><sub><b>Python</b></sub></a>
@@ -49,9 +48,9 @@
 </tr>
 </table>
 
-<!-- Database -->
+<!-- 数据库 -->
 <table>
-<tr><td colspan="4" align="left"><b>Database</b></td></tr>
+<tr><td colspan="4" align="left"><b>数据库</b></td></tr>
 <tr>
   <td align="center" width="100">
     <a href="https://www.mysql.com/"><img src="public/icon/mysql.svg" width="32" height="32" alt="MySQL" /><br><sub><b>MySQL</b></sub></a>
@@ -75,24 +74,21 @@
 
 <div align="center">
 
-<!-- Agent Harness -->
+<!-- 智能体框架 -->
 <table>
-<tr><td colspan="5" align="left" padding="0"><b>Agent Harness</b></td></tr>
+<tr><td colspan="4" align="left" padding="0"><b>智能体框架</b></td></tr>
 <tr>
   <td align="center" width="100">
-    <a href="https://zcode.z.ai/cn"><img src="public/icon/zcode.svg" width="32" height="32" alt="ZCode" /><br><sub><b>ZCode</b></sub></a><br><sub>偷数据的黑白狐娘</sub>
+    <a href="https://zcode.z.ai/cn"><img src="public/icon/zcode.svg" width="32" height="32" alt="ZCode" /><br><sub><b>ZCode</b></sub></a>
   </td>
   <td align="center" width="100">
-    <a href="https://hermes-agent.nousresearch.com/"><img src="public/icon/hermes.svg" width="32" height="32" alt="Hermes" /><br><sub><b>Hermes</b></sub></a><br><sub>偷偷进化的黑白少女</sub>
+    <a href="https://hermes-agent.nousresearch.com/"><img src="public/icon/hermes.svg" width="32" height="32" alt="Hermes" /><br><sub><b>Hermes</b></sub></a>
   </td>
   <td align="center" width="100">
-    <a href="https://www.deepseek.com/harness/"><img src="public/icon/deepseek.svg" width="32" height="32" alt="DSH" /><br><sub><b>DSH</b></sub></a><br><sub>吃白饭的蓝色大肥鱼</sub>
+    <a href="https://www.deepseek.com/harness/"><img src="public/icon/deepseek.svg" width="32" height="32" alt="DSH" /><br><sub><b>DSH</b></sub></a>
   </td>
   <td align="center" width="100">
-    <a href="https://openai.com/codex"><img src="public/icon/codex.svg" width="32" height="32" alt="Codex" /><br><sub><b>Codex</b></sub></a><br><sub>脑子里全是龙娘</sub>
-  </td>
-  <td align="center" width="100">
-    <a href="https://opencode.ai/zh"><img src="public/icon/opencode.svg" width="32" height="32" alt="OpenCode" /><br><sub><b>OpenCode</b></sub></a><br><sub>开源编码智能体</sub>
+    <a href="https://openai.com/codex"><img src="public/icon/codex.svg" width="32" height="32" alt="Codex" /><br><sub><b>Codex</b></sub></a>
   </td>
 </tr>
 </table>
@@ -102,13 +98,13 @@
 <tr><td colspan="3" align="left" padding="0"><b>代码全家桶</b></td></tr>
 <tr>
   <td align="center" width="100">
-    <a href="https://code.visualstudio.com/"><img src="public/icon/vscode.svg" width="32" height="32" alt="VS Code" /><br><sub><b>VS Code</b></sub></a><br><sub>装完插件重如泰山</sub>
+    <a href="https://code.visualstudio.com/"><img src="public/icon/vscode.svg" width="32" height="32" alt="VS Code" /><br><sub><b>VS Code</b></sub></a>
   </td>
   <td align="center" width="100">
-    <a href="https://git-scm.com/"><img src="public/icon/git.svg" width="32" height="32" alt="Git" /><br><sub><b>Git</b></sub></a><br><sub>回滚失败就原地升天</sub>
+    <a href="https://git-scm.com/"><img src="public/icon/git.svg" width="32" height="32" alt="Git" /><br><sub><b>Git</b></sub></a>
   </td>
   <td align="center" width="100">
-    <a href="https://dbxio.com/cn"><img src="public/icon/dbx.svg" width="32" height="32" alt="DBX" /><br><sub><b>DBX</b></sub></a><br><sub>七十种库一把全拿捏</sub>
+    <a href="https://dbxio.com/cn"><img src="public/icon/dbx.svg" width="32" height="32" alt="DBX" /><br><sub><b>DBX</b></sub></a>
   </td>
 </tr>
 </table>
@@ -118,19 +114,19 @@
 <tr><td colspan="5" align="left" padding="0"><b>环境搬家队</b></td></tr>
 <tr>
   <td align="center" width="100">
-    <a href="https://www.docker.com/"><img src="public/icon/docker.svg" width="32" height="32" alt="Docker" /><br><sub><b>Docker</b></sub></a><br><sub>打包一时爽排错火葬场</sub>
+    <a href="https://www.docker.com/"><img src="public/icon/docker.svg" width="32" height="32" alt="Docker" /><br><sub><b>Docker</b></sub></a>
   </td>
   <td align="center" width="100">
-    <a href="https://docs.anaconda.net.cn/miniconda/"><img src="public/icon/miniconda.svg" width="32" height="32" alt="Miniconda" /><br><sub><b>Miniconda</b></sub></a><br><sub>房间越开越多记不住</sub>
+    <a href="https://docs.anaconda.net.cn/miniconda/"><img src="public/icon/miniconda.svg" width="32" height="32" alt="Miniconda" /><br><sub><b>Miniconda</b></sub></a>
   </td>
   <td align="center" width="100">
-    <a href="https://uv.doczh.com/"><img src="public/icon/uv.svg" width="32" height="32" alt="uv" /><br><sub><b>uv</b></sub></a><br><sub>Rust 写的飞快包管理器</sub>
+    <a href="https://uv.doczh.com/"><img src="public/icon/uv.svg" width="32" height="32" alt="uv" /><br><sub><b>uv</b></sub></a>
   </td>
   <td align="center" width="100">
-    <a href="https://nodejs.org/"><img src="public/icon/nodejs.svg" width="32" height="32" alt="Node.js" /><br><sub><b>Node.js</b></sub></a><br><sub>前端后端一把梭</sub>
+    <a href="https://nodejs.org/"><img src="public/icon/nodejs.svg" width="32" height="32" alt="Node.js" /><br><sub><b>Node.js</b></sub></a>
   </td>
   <td align="center" width="100">
-    <a href="https://ubuntu.com/"><img src="public/icon/ubuntu.svg" width="32" height="32" alt="Ubuntu" /><br><sub><b>Ubuntu</b></sub></a><br><sub>服务器常驻老油条</sub>
+    <a href="https://ubuntu.com/"><img src="public/icon/ubuntu.svg" width="32" height="32" alt="Ubuntu" /><br><sub><b>Ubuntu</b></sub></a>
   </td>
 </tr>
 </table>

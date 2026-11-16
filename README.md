@@ -123,7 +123,7 @@
 ## 工具
 
 <table>
-<tr><td colspan="6" align="left"><b>Agent Harness</b></td></tr>
+<tr><td colspan="6" align="left"><b>AI</b></td></tr>
 <tr>
   <td align="center" width="140">
     <a href="https://zcode.z.ai/cn"><img src="public/icon/zcode.svg" width="32" height="32" alt="ZCode" /><br><sub><b>ZCode</b></sub></a>

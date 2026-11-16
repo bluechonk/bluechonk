@@ -32,6 +32,29 @@
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bluechonk&amp;theme=dark&amp;hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bluechonk&amp;theme=light&amp;hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bluechonk&amp;theme=light&amp;hide_border=true" alt="GitHub 连续贡献" />
+</picture>
+
+</div>
+
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/bluechonk/bluechonk@github-snake/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/bluechonk/bluechonk@github-snake/github-snake.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/bluechonk/bluechonk@github-snake/github-snake.svg" alt="贡献之蛇" />
+</picture>
+
+<br>
+
+</div>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=4f6ef7&amp;height=90&amp;section=footer" alt="" />
 
 </div>
@@ -146,30 +169,6 @@
 </tr>
 </table>
 
----
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bluechonk&amp;theme=dark&amp;hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bluechonk&amp;theme=light&amp;hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bluechonk&amp;theme=light&amp;hide_border=true" alt="GitHub 连续贡献" />
-</picture>
-
-</div>
-
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/bluechonk/bluechonk@github-snake/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/bluechonk/bluechonk@github-snake/github-snake.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/bluechonk/bluechonk@github-snake/github-snake.svg" alt="贡献之蛇" />
-</picture>
-
-<br>
-
-</div>
 ---
 
 <div align="center">

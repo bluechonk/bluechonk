@@ -158,7 +158,7 @@
     <a href="https://git-scm.com/"><img src="public/icon/git.svg" width="32" height="32" alt="Git" /><br><sub><b>Git</b></sub></a>
   </td>
   <td align="center" width="140">
-    <a href="https://dbxio.com/cn"><img src="public/icon/dbx.svg" width="32" height="32" alt="DBX" /><br><sub><b>DBX</b></sub></a>
+    <a href="https://dbxio.com/cn"><img src="public/icon/dbx.png" width="32" height="32" alt="DBX" /><br><sub><b>DBX</b></sub></a>
   </td>
 </tr>
 <tr><td colspan="6" align="left"><b>环境</b></td></tr>

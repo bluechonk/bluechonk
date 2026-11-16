@@ -74,15 +74,15 @@
 
 <div align="center">
 
-<!-- 智能体框架 -->
+<!-- Agent Harness -->
 <table>
-<tr><td colspan="4" align="left" padding="0"><b>智能体框架</b></td></tr>
+<tr><td colspan="4" align="left" padding="0"><b>Agent Harness</b></td></tr>
 <tr>
   <td align="center" width="100">
     <a href="https://zcode.z.ai/cn"><img src="public/icon/zcode.svg" width="32" height="32" alt="ZCode" /><br><sub><b>ZCode</b></sub></a>
   </td>
   <td align="center" width="100">
-    <a href="https://hermes-agent.nousresearch.com/"><img src="public/icon/hermes.svg" width="32" height="32" alt="Hermes" /><br><sub><b>Hermes</b></sub></a>
+    <a href="https://claude.ai/download"><img src="public/icon/claude.svg" width="32" height="32" alt="Claude Desktop" /><br><sub><b>Claude Desktop</b></sub></a>
   </td>
   <td align="center" width="100">
     <a href="https://www.deepseek.com/harness/"><img src="public/icon/deepseek.svg" width="32" height="32" alt="DSH" /><br><sub><b>DSH</b></sub></a>

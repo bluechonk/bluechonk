@@ -32,9 +32,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bluechonk&amp;theme=dark&amp;hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bluechonk&amp;theme=light&amp;hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bluechonk&amp;theme=light&amp;hide_border=true" alt="GitHub 连续贡献" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bluechonk&amp;theme=dark&amp;hide_border=true&amp;card_width=810" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bluechonk&amp;theme=light&amp;hide_border=true&amp;card_width=810" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bluechonk&amp;theme=light&amp;hide_border=true&amp;card_width=810" alt="GitHub 连续贡献" />
 </picture>
 
 </div>

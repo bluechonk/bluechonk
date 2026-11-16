@@ -1,34 +1,3 @@
-<div align="center">
-
-<!-- Typing SVG Header -->
-<h1>
-  <a href="https://github.com/bluechonk">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=4F6EF7&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+bluechonk;%E7%83%AD%E7%88%B1%E4%BA%8C%E6%AC%A1%E5%85%83%E7%9A%84%E6%8A%80%E6%9C%AF%E5%AE%85;Full-Stack+Developer;Anime+%26+Tech+Lover" alt="Typing SVG" />
-  </a>
-</h1>
-
-<!-- Social Links -->
-<table>
-<tr>
-  <td align="center">
-    <a href="https://github.com/bluechonk"><img src="public/icon/github.svg" width="28" height="28" alt="GitHub" /><br><sub><b>GitHub</b></sub></a>
-  </td>
-  <td align="center">
-    <a href="https://steamcommunity.com/profiles/76561198726425168/"><img src="public/icon/steam.svg" width="28" height="28" alt="Steam" /><br><sub><b>Steam</b></sub></a>
-  </td>
-  <td align="center">
-    <a href="https://space.bilibili.com/1920131239"><img src="public/icon/bilibili.svg" width="28" height="28" alt="Bilibili" /><br><sub><b>Bilibili</b></sub></a>
-  </td>
-  <td align="center">
-    <a href="mailto:cecilia4412@qq.com"><img src="public/icon/gmail.svg" width="28" height="28" alt="Email" /><br><sub><b>Email</b></sub></a>
-  </td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## About Me
 
 你好，我是 **bluechonk**，一个热爱二次元与技术的全栈开发者。平时喜欢折腾前端工程化、捣鼓各种开发工具。

@@ -15,8 +15,7 @@
 
 <p align="center">你好，我是 <b>bluechonk</b>，一个热爱二次元与技术的全栈开发者。</p>
 
-- 目前正在折腾 **AI Agent** 和 **桌面应用开发**
-- 持续学习 **Vue 生态**、**Python AI**、**Rust**
+- 目前正在折腾 **AI Agent** 和 **桌面应用开发**，持续学习 **Vue 生态**、**Python AI**、**Rust**
 - 日常：写代码 / 打游戏 / 看番
 
 <p align="center">

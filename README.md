@@ -93,9 +93,9 @@
 </tr>
 </table>
 
-<!-- 代码全家桶 -->
+<!-- 开发 -->
 <table>
-<tr><td colspan="3" align="left" padding="0"><b>代码全家桶</b></td></tr>
+<tr><td colspan="3" align="left" padding="0"><b>开发</b></td></tr>
 <tr>
   <td align="center" width="100">
     <a href="https://code.visualstudio.com/"><img src="public/icon/vscode.svg" width="32" height="32" alt="VS Code" /><br><sub><b>VS Code</b></sub></a>
@@ -109,9 +109,9 @@
 </tr>
 </table>
 
-<!-- 环境搬家队 -->
+<!-- 环境 -->
 <table>
-<tr><td colspan="5" align="left" padding="0"><b>环境搬家队</b></td></tr>
+<tr><td colspan="5" align="left" padding="0"><b>环境</b></td></tr>
 <tr>
   <td align="center" width="100">
     <a href="https://www.docker.com/"><img src="public/icon/docker.svg" width="32" height="32" alt="Docker" /><br><sub><b>Docker</b></sub></a>

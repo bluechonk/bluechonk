@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=4f6ef7&amp;height=110&amp;section=header&amp;text=Hi%20there%2C%20I%27m%20bluechonk&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn" alt="Hi there, I'm bluechonk" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=4f6ef7&amp;height=110&amp;section=header&amp;text=Hi%20there%2C%20I%27m%20bluechonk&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=4f6ef7&amp;height=110&amp;section=header&amp;text=Hi%20there%2C%20I%27m%20bluechonk&amp;fontSize=40&amp;fontColor=1f3f73&amp;theme=light&amp;animation=fadeIn" alt="Hi there, I'm bluechonk" />
+</picture>
 
 </div>
 

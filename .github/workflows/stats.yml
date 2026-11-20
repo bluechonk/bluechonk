@@ -1,0 +1,33 @@
+name: Refresh Stats
+
+# 把主页那几张统计卡重新拉一遍，发布到 stats 分支供 jsdelivr 引用。
+# 与 snake.yml 同构：卡片渲染不再依赖上游实时可用性，内容每天刷新一次。
+#
+# 抓取失败时脚本非零退出，这一步会中断，不会用错误卡覆盖现有内容。
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: 抓取卡片
+        run: node scripts/fetch-stats.mjs
+
+      - name: 发布到 stats 分支
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist/stats
+          publish_branch: stats
+          force_orphan: true
+          commit_message: "chore: 刷新统计卡片"

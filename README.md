@@ -1,16 +1,16 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=4f6ef7&amp;height=110&amp;section=header&amp;text=Hi%20there%2C%20I%27m%20bluechonk&amp;fontSize=40&amp;fontColor=ffffff&amp;animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=4f6ef7&amp;height=110&amp;section=header&amp;text=Hi%20there%2C%20I%27m%20bluechonk&amp;fontSize=40&amp;fontColor=1f3f73&amp;theme=light&amp;animation=fadeIn" alt="Hi there, I'm bluechonk" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/bluechonk/bluechonk@stats/banner-dark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/bluechonk/bluechonk@stats/banner-light.svg" alt="Hi there, I'm bluechonk" />
 </picture>
 
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bluechonk&amp;color=4f6ef7&amp;style=flat-square&amp;label=Profile+Views" alt="主页访问数" />
-  <img src="https://img.shields.io/github/followers/bluechonk?label=Followers&amp;style=flat-square&amp;color=4f6ef7" alt="关注者数" />
-  <img src="https://img.shields.io/github/stars/bluechonk?label=Profile+Stars&amp;style=flat-square&amp;color=4f6ef7" alt="获得星标数" />
+  <img src="https://cdn.jsdelivr.net/gh/bluechonk/bluechonk@stats/views.svg" alt="主页访问数" />
+  <img src="https://cdn.jsdelivr.net/gh/bluechonk/bluechonk@stats/followers.svg" alt="关注者数" />
+  <img src="https://cdn.jsdelivr.net/gh/bluechonk/bluechonk@stats/stars.svg" alt="获得星标数" />
 </p>
 
 <p align="center">你好，我是 <b>bluechonk</b>，一个热爱二次元与技术的全栈开发者。</p>
@@ -20,21 +20,21 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=bluechonk&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;icon_color=4c7fc9" />
-    <img src="https://github-stats-extended.vercel.app/api?username=bluechonk&amp;show_icons=true&amp;theme=default&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;icon_color=1f3f73" width="467" height="195" alt="GitHub 统计数据" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/bluechonk/bluechonk@stats/stats-dark.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/bluechonk/bluechonk@stats/stats-light.svg" width="467" height="195" alt="GitHub 统计数据" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=bluechonk&amp;layout=compact&amp;langs_count=8&amp;theme=dark&amp;hide_border=true" />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bluechonk&amp;layout=compact&amp;langs_count=8&amp;theme=default&amp;hide_border=true" width="300" height="190" alt="常用语言占比" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/bluechonk/bluechonk@stats/langs-dark.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/bluechonk/bluechonk@stats/langs-light.svg" width="300" height="190" alt="常用语言占比" />
   </picture>
 </p>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bluechonk&amp;theme=dark&amp;hide_border=true&amp;card_width=810" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bluechonk&amp;theme=light&amp;hide_border=true&amp;card_width=810" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bluechonk&amp;theme=light&amp;hide_border=true&amp;card_width=810" alt="GitHub 连续贡献" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/bluechonk/bluechonk@stats/streak-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/bluechonk/bluechonk@stats/streak-light.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/bluechonk/bluechonk@stats/streak-light.svg" alt="GitHub 连续贡献" />
 </picture>
 
 </div>

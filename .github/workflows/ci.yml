@@ -1,0 +1,32 @@
+name: CI
+
+# README 的图片引用是主页的门面：指错一个，页面上就是一块破图。
+# 这里只做确定性校验——本地文件在不在、@stats 分支有没有被引用的文件、
+# 有没有人把图片指回实时图床。不探测外部可达性，那会受网络波动影响。
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  readme-assets:
+    name: readme-assets
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      # @stats 分支由 Refresh Stats 工作流维护，校验时要能看到它有哪些文件
+      - name: 取 stats 分支
+        run: git fetch --depth 1 origin +stats:refs/remotes/origin/stats
+
+      - name: 校验 README 图片引用
+        run: node scripts/check-readme-assets.mjs
